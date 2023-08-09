@@ -1,0 +1,20 @@
+# MODELO
+
+\begin{table}[htb]
+\flushleft
+\small
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+    Ano
+    & \multicolumn{11}{c|}{2023}\\
+    \cline{12 - 12}
+\hline
+Meses & $3$ & $4$ & $5$ & $6$ & $7$ & $8$ & $9$ & $10$ & $11$ & $12$\\ \hline
+Levantamento bibliográfico & x & x & x & x & x & x & x & x & x &\\ \hline
+Confecção dos plásticos & x & x & x & x & x & x & x & x & x &\\ \hline
+Produção dos micro e nanoplásticos & x & x & x & x & x & x & x & x & x &\\ \hline
+Coleta dos dados & x & x & x & x & x & x & x & x & x &\\ \hline
+Processamento dos dados por meio de IA & x & x & x & x & x & x & x & x & x &\\ \hline
+Análise dos dados & x & x & x & x & x & x & x & x & x &\\ \hline
+\end{tabular}
+\end{table}
