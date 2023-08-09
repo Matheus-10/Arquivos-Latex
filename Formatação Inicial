@@ -1,5 +1,4 @@
 __Dados de formatação Inicial__
-**This is bold text**
 \documentclass[a4paper,12pt]{article}
 \usepackage[brazil,portuguese]{babel}
 \parindent=1.5cm 
