@@ -1,4 +1,4 @@
-__Dados de formatação Inicial__
+# Dados de formatação Inicial {-}
 \documentclass[a4paper,12pt]{article}
 \usepackage[brazil,portuguese]{babel}
 \parindent=1.5cm 
