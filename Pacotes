@@ -1,0 +1,27 @@
+# PACTOES
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{pslatex} % Coloca o times new roman
+\usepackage{makeidx}                       
+\usepackage{mathrsfs}
+\usepackage{amssymb}                       
+\usepackage[dvips]{color}                  
+\usepackage{indentfirst}                   
+\usepackage{graphicx}                      
+\usepackage{graphics}                      
+\usepackage{amssymb}                      
+\usepackage{latexsym}                      
+\usepackage{enumerate}                     
+\usepackage[colorlinks=true]{hyperref}  
+\usepackage[table]{xcolor}
+\usepackage{subfigure}
+\usepackage{amsmath}
+\usepackage[normalem]{ulem}
+\usepackage{bm}
+\usepackage{multirow}
+\usepackage[table]{xcolor}
+\usepackage{colortbl}
+\usepackage{multicol}
+\usepackage{geometry}
+\geometry{left=3.0cm,right=2.0cm,top=3.0cm,bottom=2.0cm}
+\renewcommand{\baselinestretch}{1.5}
